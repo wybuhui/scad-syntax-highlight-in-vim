@@ -7,3 +7,4 @@ vim syntax highlight script for openscad software
 2. add `filetype on` to your `~/.vimrc` file
 3. add `au BufRead,BufNewFile *.scad set filetype=scad` to your `~/.vimrc` file
     
+![demo](https://github.com/wybuhui/scad-syntax-highlight-in-vim/blob/master/scad_demo.jpg)
