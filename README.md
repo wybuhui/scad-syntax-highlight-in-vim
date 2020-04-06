@@ -6,5 +6,8 @@ vim syntax highlight script for openscad software
 1. copy scad.vim file to `[pathto]/vim82/syntax/`
 2. add `filetype on` to your `~/.vimrc` file
 3. add `au BufRead,BufNewFile *.scad set filetype=scad` to your `~/.vimrc` file
+
+
+### Demo
     
 ![demo](https://github.com/wybuhui/scad-syntax-highlight-in-vim/blob/master/scad_demo.jpg)
